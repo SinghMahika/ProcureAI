@@ -1,0 +1,5 @@
+pypdf
+langchain-openai
+langchain_chroma
+langchain_text_splitters
+langchain
